@@ -11,3 +11,6 @@ c) MMSE
 
 
 2) This project contains one FFT-Autocorrelation-PSD file
+
+
+3) Wiki contains a summary of key components of DSP 
