@@ -2,7 +2,7 @@
 
 @ Yuanyuan Tang
 
-Simulated error probability of Massive MIMO  system
+Simulated error probability of Massive MIMO  system. Note that some text may come from other sources. Please feel free to let me delete the corresponding files if they infringe on your copyright.
 
 1) The project contains one Massive MIMO channel model, 3 linear precoder transceivers.
 
