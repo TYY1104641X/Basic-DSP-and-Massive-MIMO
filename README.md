@@ -1,4 +1,7 @@
 # Massive-MIMO and FFT/PSD
+
+@ Yuanyuan Tang
+
 Simulated error probability of Massive MIMO  system
 
 1) The project contains one Massive MIMO channel model, 3 linear precoder transceivers.
